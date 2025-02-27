@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+ :root{
+    --cor-principal:#2797D5;
+    --cor1:#7bfac3;
+    --cor2:#3dc08d;
+    --cor3:#008a5b;
+    --preto:#000000;
+    --branco:#FFFFFF;
+ }
+
+ body {
+    font-size: 1rem;
+    font-family: 'googleapis';
+ }
