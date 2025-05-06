@@ -151,5 +151,24 @@ header {
 }
 
 .alto-contraste .nav-link{
-   color: var()
+   color: var(--preto)
+}
+
+.alto-contraste .botao-inicio,
+.alto-contraste .formulario button,
+.alto-contraste .btn-primary {
+   background-color: var(--laranja-claro);
+   color: var(--preto);
+}
+
+.alto-contraste #bolas de volei {
+   background: none;
+}
+
+.alto-contraste #galeria {
+   background-color: var(--laranja-claro);
+}
+
+.alto-contraste .fundo-galeria {
+   background: none;
 }
